@@ -182,3 +182,4 @@ by the robot.
 **Note:** Overlay and underlay images are applied *after* rendering and
 scaling the map data. In contrast to the crop settings, scaling and
 positioning options here are in output image units.
+
